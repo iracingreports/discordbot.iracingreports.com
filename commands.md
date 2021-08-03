@@ -1,5 +1,5 @@
 ---
-title: iRacing Stats Discord Bot - Commands
+title: iRacing Reports Discord Bot - Commands
 ---
 
 ## Commands

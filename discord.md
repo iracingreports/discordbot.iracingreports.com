@@ -1,5 +1,5 @@
 ---
-title: iRacing Stats Discord Bot - Our Discord
+title: iRacing Reports Discord Bot - Our Discord
 ---
 
 ## Hold Tight, Taking You To Our Discord Server

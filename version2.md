@@ -1,10 +1,10 @@
 ---
-title: iRacing Stats Discord Bot - Version 2
+title: iRacing Reports Discord Bot - Version 2
 ---
 
 # Version 2 Overview
 
-Over the last few weeks I've been working on a huge refactor of the [iRacing Stats Bot](http://irstatsbot.fuzzwah.com). This effort saw me make 89 pull requests, and had a combined count of 417 commits (my development process sees me pushing a commit every time I want to test a change).
+Over the last few weeks I've been working on a huge refactor of the [iRacing Reports Bot](http://irstatsbot.fuzzwah.com). This effort saw me make 89 pull requests, and had a combined count of 417 commits (my development process sees me pushing a commit every time I want to test a change).
 
 This massive refactor included many changes which remove manual tasks from the operation of the bot. Generally these tasks were required during the season change over (which happens 4 times a year). In theory, the bot should now hum along with out intervention across the end of one season and the start of another.
 

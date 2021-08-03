@@ -1,5 +1,5 @@
 ---
-title: iRacing Stats Discord Bot - Demo Video
+title: iRacing Reports Discord Bot - Demo Video
 ---
 
 ## Demo Video

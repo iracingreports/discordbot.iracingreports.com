@@ -1,5 +1,5 @@
 ---
-title: iRacing Stats Discord Bot - Dev Log
+title: iRacing Reports Discord Bot - Dev Log
 ---
 
 {% include devlog.html %}

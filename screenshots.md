@@ -1,5 +1,5 @@
 ---
-title: iRacing Stats Discord Bot - Screenshots
+title: iRacing Reports Discord Bot - Screenshots
 ---
 
 ## Screenshots

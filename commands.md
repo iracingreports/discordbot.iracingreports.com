@@ -144,7 +144,7 @@ A [complete user guide](https://docs.google.com/document/d/10zXNU6L5Ljrlip4G_evH
 ### `!drivers (category) [irating|irchange|name]`
 > Returns a list of the team's drivers, along with some basic information such as number of races for the season, current iRating and iRating gain/loss for the season. By default the driver's information will be for the category they've raced the most for the season, optionally you can specify a category type (road, oval, dirt, rx, offroad) to get the details for each driver in that category. Optional arguments of `irating`, `irchange`, and `name` are available to set the ordering of the list. Defaults to `irating`.
 
-### `!drivers_divisions (category)`
+### `!drivers_division (category)`
 > Returns a list of the division for each driver in the team.
 
 ### `!drivers_discord`

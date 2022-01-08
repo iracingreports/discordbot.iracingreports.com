@@ -13,7 +13,7 @@ navigation:
   - title: Our Discord
     url: /discord
   - title: Dev Log
-    url: /devlog
+    url: https://iracingreports.com/devlog
 github:
   is_project_page: false
   

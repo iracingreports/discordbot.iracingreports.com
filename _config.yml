@@ -4,8 +4,8 @@ description: A Discord bot that allows users to access a range of statistical in
 navigation:
   - title: Home
     url: /
-  - title: Commands
-    url: /commands
+  - title: User Guide
+    url: https://iracingreports.com/static/iRacing_Reports_bot_commands.pdf
   - title: Screenshots
     url: /screenshots
   - title: Demo Video

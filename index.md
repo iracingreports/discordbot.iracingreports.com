@@ -13,6 +13,8 @@ You can click this link to [join the iRacing Reports Discord server](https://dis
 
 Typing `!help` in the channel will have the bot private message you with a breif explanation of all the available commands.
 
+A full [User Guide](https://iracingreports.com/static/iRacing_Reports_bot_commands.pdf) document is available for further information on all of the commands and options available.
+
 You can [check out screenshots](screenshots.html) of the output from some of the other commands.
 
 ## Adding the bot to your Discord

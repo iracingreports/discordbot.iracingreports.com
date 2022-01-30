@@ -29,7 +29,7 @@ If you're interested in adding the bot to your team's Discord please visit my Pa
 
 ## Individual subscribers
 
-There are also a number of subcriber only commands that can any public Discord server, such as the iRacing Reports Discord, iRacing Open Wheel Hub, iRacing Chat, GermanSimRacing.de, and CTC Lotus 79.
+There are also a number of commands that can be used by people who subscribe at the [iRacing Reports Discord Bot: Driver Access](https://www.patreon.com/join/RobCrouch/checkout?rid=5846474) level. These subscriber only commands can be used on any public Discord server that the bot is in; such as the iRacing Reports Discord, iRacing Open Wheel Hub, iRacing Chat, GermanSimRacing.de, and CTC Lotus 79 servers.
 
 The bot will highlight the subscribed driver in various outputs, as shown in the [screenshots](screenshots.html)]. If you're interested in supporting the project and getting access to the subscriber only commands, please visit my Patreon page and select the [iRacing Reports Discord Bot: Driver Access](https://www.patreon.com/join/RobCrouch/checkout?rid=5846474) member level.
 

@@ -13,9 +13,9 @@ To get the bot up and running in your Discord server you'll need to complete 4 s
 3. Invite the iRacing Reports Discord Bot to your Discord server
 4. Create a role for the bot, and configure the required permissions
 
-To begin the process, please open this following URL in a new tab:
+To begin the process, please open the following URL in a new tab:
 
-[https://iracingreports.com/accounts/login](https://iracingreports.com/accounts/login)
+## [https://iracingreports.com/accounts/login](https://iracingreports.com/accounts/login)
 
 ## 1) Connect your Patreon
 

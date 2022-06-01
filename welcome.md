@@ -19,7 +19,7 @@ To begin the process, please open this following URL in a new tab:
 
 ## 1) Connect your Patreon
 
-For the iRacing Reports systems to know that you're a supporter and what tier you're on, you'll need to use a system called OAuth to connect your Patreon account with the iRacing Reports website. For more information about OAuth, you can read this excellent explanation on the Patreon support site: https://www.patreon.com/portal/start/oauth-explained
+For the iRacing Reports systems to know that you're a supporter and what tier you're on, you'll need to use a system called OAuth to connect your Patreon account with the iRacing Reports website. For more information about OAuth, you can read this excellent explanation on the Patreon support site: [https://www.patreon.com/portal/start/oauth-explained](https://www.patreon.com/portal/start/oauth-explained)
 
 Click the **CONNECT WITH PATREON** button:
 
@@ -96,4 +96,10 @@ Once you've got the bot all ready to go, you'll probably want to add drivers to 
 
 You will use the `/manage_team add` command to do this. You'll need to provide the driver name and color you'd like used for the highlights for this driver. There is also an option field to link this driver to a Discord user. Be sure to select the Discord user from the auto complete list. It needs to resolve out to the purple text version.
 
+Below is an example of what a completely filled out command looks like:
+
 ![Add driver](https://user-images.githubusercontent.com/658935/171341212-42ddd9e3-c2e1-4fe5-8151-088f48052b67.png)
+
+
+
+

@@ -42,7 +42,7 @@ To link up your Patreon account with your Discord account, you'll have to do a s
 
 Click the **CONNECT WITH DISCORD** button:
 
-![5-connect-discord](https://user-images.githubusercontent.com/658935/171344091-fe2058e4-5683-4585-a767-2e69f585a863.png)
+![4-connect-discord](https://user-images.githubusercontent.com/658935/171344566-bbf9519a-df36-429e-abda-f5adb6c4f7ce.png)
 
 You can either login using the email address associated with Discord and your password, or use the [QR Code Login](https://support.discord.com/hc/en-us/articles/360039213771-QR-Code-Login-FAQ) feature.
 

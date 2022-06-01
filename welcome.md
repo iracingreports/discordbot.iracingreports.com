@@ -23,19 +23,18 @@ For the iRacing Reports systems to know that you're a supporter and what tier yo
 
 Click the **CONNECT WITH PATREON** button:
 
-![Connect with Patreon](https://user-images.githubusercontent.com/658935/171335957-9ab7a743-62cb-4445-a21d-fa60ff7fb8a9.png)
+![1-connect-patreon](https://user-images.githubusercontent.com/658935/171343965-7e969b08-43d6-42c1-acb2-e9b4ebd3a0f4.png)
 
 You'll enter the email address associated with your Patreon account and your password. Note, this information is sent to Patreon not us! You'll see that the URL is a patreon.com address.
 
-![Log into Patreon](https://user-images.githubusercontent.com/658935/171336281-8f2d2996-1ef1-4d21-a142-83f0ed606739.png)
+![2-patreon-login](https://user-images.githubusercontent.com/658935/171344016-b9ce5312-8468-4e09-a74c-6a300e29d27d.png)
 
 You'll be informed of the information that will be shared with us, click the **Allow** button.
 
-![Patreon information](https://user-images.githubusercontent.com/658935/171336344-2a972b31-5fe3-4c67-a1b8-c407a6784646.png)
+![3-patreon-info](https://user-images.githubusercontent.com/658935/171344050-6e70bd2b-1733-4a9f-8c2e-abf2be4c31ef.png)
 
 With this completed, you'll be returned to the iRacing Reports website and you should see the details of your Patreon account, along with what tier you're subscribed on and your payment status.
 
-![Patreon connected](https://user-images.githubusercontent.com/658935/171336556-6459a95c-34e6-4aa0-8339-1611c26d999f.png)
 
 ## 2) Connect your Discord
 
@@ -43,33 +42,35 @@ To link up your Patreon account with your Discord account, you'll have to do a s
 
 Click the **CONNECT WITH DISCORD** button:
 
-![Connect with Discord](https://user-images.githubusercontent.com/658935/171336907-e59ca607-da59-4fd1-9a53-e858d8230874.png)
+![5-connect-discord](https://user-images.githubusercontent.com/658935/171344091-fe2058e4-5683-4585-a767-2e69f585a863.png)
 
 You can either login using the email address associated with Discord and your password, or use the [QR Code Login](https://support.discord.com/hc/en-us/articles/360039213771-QR-Code-Login-FAQ) feature.
 
-![Log into Discord](https://user-images.githubusercontent.com/658935/171337522-43854336-da32-499c-8d1f-8b44def7f44d.png)
+![6-discord-login](https://user-images.githubusercontent.com/658935/171344115-5cdfd007-285f-446f-95fa-7cb17b00c14b.png)
 
 You'll be informed of the information that will be shared with us, click the **Authorize** button.
 
-![Discord information](https://user-images.githubusercontent.com/658935/171337604-5136f4d9-74db-4ee1-972a-5d5f18110e42.png)
+![7-discord-info](https://user-images.githubusercontent.com/658935/171344128-84cecc63-fa59-4e50-81f2-8e3a16b6efe8.png)
 
 With this completed, you'll be returned to the iRacing Reports website and you should now also see the details of your Discord account.
+
 
 ## 3) Invite the bot
 
 If you have an invite to use, you'll be shown the **INVITE BOT TO YOUR SERVER** button. Click it!
 
-![Invite bot](https://user-images.githubusercontent.com/658935/171338240-36e1cf64-cb4e-4fca-919b-915af78944c9.png)
+![8-invite-bot](https://user-images.githubusercontent.com/658935/171344148-e537d881-1e63-4e97-952e-09b28bb53faa.png)
 
 Select the server you want to invite the bot into, and click the **Continue** button.
 
-![Select server](https://user-images.githubusercontent.com/658935/171338512-55015d56-8336-4eaf-9898-718f21fbae7c.png)
+![9-select-server](https://user-images.githubusercontent.com/658935/171344164-38406048-2293-45e4-bd5c-cbb7a596fbb3.png)
 
 You'll be shown a list of the permissions that will be granted to the bot. Click the **Authorize** button.
 
-![iracing-reports-bot-v3-9](https://user-images.githubusercontent.com/658935/171338560-0bbd7921-8251-42f7-b0fc-f6667a7b4059.png)
+![10-bot-perms](https://user-images.githubusercontent.com/658935/171344180-d1da031d-74f8-4467-9500-0e94843ef186.png)
 
 With this completed, the bot will appear in your server!
+
 
 ## 4) Create a role and set permissions
 
@@ -87,6 +88,7 @@ The permissions that the bot's role will require in channels where you want it t
 * Attach Files
 * Add Reactions
 * Read Message History
+
 
 # Adding drivers to your team
 

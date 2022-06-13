@@ -6,6 +6,8 @@ title: iRacing Reports Discord Bot - Preparing for v3
 
 Thanks for your continued support of my iRacing Reports Discord Bot project.
 
+Over the past months I’ve been working away on a total re-write of the iRacing Reports Discord Bot, I’m declaring that this is version 3! They key change is that users now interact with the bot using slash commands, rather than the current !<command> style commands.
+
 I'll be switching the bot over to the new v3 version in the final days of the 2022 Season 2 Week 13. You can read [about this new version here](https://discordbot.iracingreports.com/version3) and I have a [demo video](https://youtu.be/5YbMBCv1fVc) that you can check out to see how the new slash commands work.
 
 To prepare for this, I need to have you complete the following 2 steps:

@@ -10,10 +10,11 @@ Over the past months I’ve been working away on a total re-write of the iRacing
 
 I'll be switching the bot over to the new v3 version in the final days of the 2022 Season 2 Week 13. You can read [about this new version here](https://discordbot.iracingreports.com/version3) and I have a [demo video](https://youtu.be/5YbMBCv1fVc) that you can check out to see how the new slash commands work.
 
-To prepare for this, I need to have you complete the following 2 steps:
+To prepare for this, I need to have you complete the following 3 steps:
 
 1. Connect your Patreon account with iRacing Reports
 2. Connect your Discord account with iRacing Reports
+3. Use the new bot invite link to grant permission to "Create commands in a server"
 
 With these steps completed, I'll be able to ensure that your driver list and any other configured options are automatically maintained during the switch over.
 
@@ -58,7 +59,23 @@ You'll be informed of the information that will be shared with us, click the **A
 
 With this completed, you'll be returned to the iRacing Reports website and you should now also see the details of your Discord account.
 
+## 3) Invite the bot
+
+**[Click this new invite link](https://discord.com/api/oauth2/authorize?client_id=663521697860943936&permissions=309237762112&scope=applications.commands%20bot)**.
+
+![8-invite-bot](https://user-images.githubusercontent.com/658935/171344148-e537d881-1e63-4e97-952e-09b28bb53faa.png)
+
+Select the server you want to invite the bot into, and click the **Continue** button.
+
+![9-select-server](https://user-images.githubusercontent.com/658935/171344164-38406048-2293-45e4-bd5c-cbb7a596fbb3.png)
+
+You'll be shown a list of the permissions that will be granted to the bot. Click the **Authorize** button.
+
+![10-bot-perms](https://user-images.githubusercontent.com/658935/171344180-d1da031d-74f8-4467-9500-0e94843ef186.png)
+
+With this completed, the bot will appear in your server!
+
 Thanks!
 
-I'll be in contact again to give you a heads up 24 hours before I do the switch over.
+I will make an announcement via the bot (and in the #announcements channel on the [iRacing Reports Discord server](https://discordbot.iracingreports.com/discord)) when the switch to the new bot takes place.
 

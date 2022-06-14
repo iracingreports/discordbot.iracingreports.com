@@ -72,6 +72,13 @@ You'll be shown a list of the permissions that will be granted to the bot. Click
 
 With this completed, the bot will appear in your server!
 
+<<<<<<< HEAD
+=======
+Note: be sure that you've granted the `@everyone` role permission to `Use Application Commands` either in the entire server or in the channel(s) where you want the bot to be used.
+
+![11-app-commands-perms](https://user-images.githubusercontent.com/658935/173550106-85c5555f-b01f-42aa-88c5-e8503dc65635.png)
+
+>>>>>>> d2578fd5b9e8bf0b00b9528069332ab51eb7554b
 ## 4) Create a role and set permissions
 
 Many teams / communities will limit the bot to only respond to commands in a single (or few) channels. We recommend creating a role for the bot and configuring the permissions.

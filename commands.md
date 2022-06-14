@@ -48,17 +48,17 @@ A [complete user guide](https://docs.google.com/document/d/10zXNU6L5Ljrlip4G_evH
 ### `/participation [series_abbrev: imsa] (season: 22s3) (week: 1)`
 > Outputs a heatmap showing the participation for the series. 
 
-### `/laps qualifying [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1) (division: 2) (highlight: "driver name") (chart_type: Scatter)`
-> Returns a table and scatter plot displaying the week's best qualifying times. 
+### `/laps qualifying [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1) (division: 2) (highlight: "driver name") (chart_type: Scatter|Box)`
+> Returns a table and chart displaying the week's best qualifying times. 
 
-### `/laps race_fastest [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1) (division: 2) (highlight: "driver name") (chart_type: Scatter)`
-> Returns a table and scatter plot displaying the week's best race lap times. 
+### `/laps race_fastest [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1) (division: 2) (highlight: "driver name") (chart_type: Scatter|Box)`
+> Returns a table and chart displaying the week's best race lap times. 
 
-### `/laps race_average [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1) (division: 2) (highlight: "driver name") (chart_type: Scatter)`
-> Returns a table and scatter plot displaying the week's best average race lap times. 
+### `/laps race_average [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1) (division: 2) (highlight: "driver name") (chart_type: Scatter|Box)`
+> Returns a table and chart displaying the week's best average race lap times. 
 
 ### `/incidents [series_abbrev: imsa] (season: 22s3) (week: 1)`
-> Returns a table and scatter plot displaying the week's incidents per corner data. 
+> Returns a table and chart displaying the week's incidents per corner data. 
 
 ### Utils:
 ### `/convert litres_to_gallons [litres: 20]`
@@ -80,7 +80,6 @@ A [complete user guide](https://docs.google.com/document/d/10zXNU6L5Ljrlip4G_evH
 > Converts miles per hour to kilometers per hour. 
 
 ### Team Subscriber Admin Commands:
-
 ### `/add_driver [driver name] [color hex] [@discord handle]`
 > Adds a driver to a discord guild.
 
@@ -104,10 +103,7 @@ A [complete user guide](https://docs.google.com/document/d/10zXNU6L5Ljrlip4G_evH
 ### `/irgains [series_abbrev: imsa] (season: 22s3) (week: 1)`
 > Returns information about the iRating gains/losses the team's drivers have had in the provided series.
 
-### `/drivers (category) [irating|irchange|name]`
-> Returns a list of the team's drivers, along with some basic information such as number of races for the season, current iRating and iRating gain/loss for the season. By default the driver's information will be for the category they've raced the most for the season, optionally you can specify a category type (road, oval, dirt, rx, offroad) to get the details for each driver in that category. Optional arguments of `irating`, `irchange`, and `name` are available to set the ordering of the list. Defaults to `irating`.
-
-### `/team quick_stats (series_abbrev: imsa) (season: 22s3) (week: 1)`
+### `/team quick_stats (series_abbrev: imsa) (season: 22s3) (week: 1) (sortby: Name|iRating|iRaing Change)`
 > Returns a list of the division for each driver in the team.
 
 ### `/team divisions`

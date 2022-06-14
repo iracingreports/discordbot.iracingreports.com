@@ -7,13 +7,9 @@ title: iRacing Reports Discord Bot
 
 I have created a Discord bot that interacts with my iRacing Statistics database. The bot allows users to access a range of statistical information about iRacing Series and Drivers.
 
-You can click this link to [join the iRacing Reports Discord server](https://discordbot.iracingreports.com//discord) where the bot will respond to commands in the **#bot-playground** channel. Feel free to check out your own stats for the current season using the `!driver Your Name` command. Below is an example of the type of information that the bot will respond with:
+You can click this link to [join the iRacing Reports Discord server](https://discordbot.iracingreports.com//discord) where the bot will respond to commands in the **#bot-playground** channel. Feel free to check out your own stats for the current season using the `/driver name: Your Name` command. Below is an example of the type of information that the bot will respond with:
 
-![!driver](https://user-images.githubusercontent.com/658935/100395468-255c5300-3095-11eb-8d52-dbfa5f1a7d5c.png)
-
-Typing `!help` in the channel will have the bot private message you with a breif explanation of all the available commands.
-
-A full [User Guide](https://iracingreports.com/static/iRacing_Reports_bot_commands.pdf) document is available for further information on all of the commands and options available.
+![/driver](https://user-images.githubusercontent.com/658935/173564569-ff26171c-d013-47d0-8d29-e7c9db01d1e5.png)
 
 You can [check out screenshots](screenshots.html) of the output from some of the other commands.
 

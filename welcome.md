@@ -84,6 +84,8 @@ The permissions that the bot's role will require in channels where you want it t
 
 * View Channel
 * Send Messages
+* Send Messages in Threads
+* Create Public Threads
 * Embed Links
 * Attach Files
 * Add Reactions

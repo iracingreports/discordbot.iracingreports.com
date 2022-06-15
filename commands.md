@@ -10,8 +10,6 @@ For some commands you can specify a particular season. Unless specified, this wi
 
 For some commands where it makes sense, if you specify a multiclass series you will need to provide an argument to also specify which class you're interested in.
 
-A [complete user guide](https://docs.google.com/document/d/10zXNU6L5Ljrlip4G_evH5ii4_z7gphy1MPv5jeBr4is/edit), with screenshot examples of each command is available.
-
 ### Standard Commands:
 ### `/series [category] (season: 22s3)`
 > Displays a table of series and the abbreviations to use for each of them in all the other commands. The category must be provided; either **road**, **oval**, **dirt**, **rx**, or **offroad**.

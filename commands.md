@@ -80,16 +80,16 @@ A [complete user guide](https://docs.google.com/document/d/10zXNU6L5Ljrlip4G_evH
 > Converts miles per hour to kilometers per hour. 
 
 ### Team Subscriber Admin Commands:
-### `/add_driver [driver name] [color hex] [@discord handle]`
+### `/manage_team add [driver name] [color hex] [@discord handle]`
 > Adds a driver to a discord guild.
 
-### `/remove_driver [driver name]`
+### `/manage_team remove [driver name]`
 > Removes a driver to a discord guild.
 
-### `/update_driver [driver name] [color hex]`
+### `/manage_team update [driver name] [color hex]`
 > Updates a driver's highlight color.
 
-### `/bot_admin_role [@role]`
+### `/manage_team admin_role [@role]`
 > Allows any discord user who has the mentioned role access to the bot admin commands for this server. Note: you'll need to make a new role, or use an existing one.
 
 ### Subscription Required Commands:

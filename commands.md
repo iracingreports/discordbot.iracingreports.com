@@ -11,27 +11,25 @@ For some commands you can specify a particular season. Unless specified, this wi
 For some commands where it makes sense, if you specify a multiclass series you will need to provide an argument to also specify which class you're interested in.
 
 ### Standard Commands:
-### `/series [category] (season: 22s3)`
-> Displays a table of series and the abbreviations to use for each of them in all the other commands. The category must be provided; either **road**, **oval**, **dirt**, **rx**, or **offroad**.
+### `/series_abbreviations (season: 22s3)`
+> Displays a table of series and the abbreviations to use for each of them in all the other commands. You will be prompted to select the category.
 
 ### `/cars [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3)`
 > Displays a list of cars in a class and the abbreviations to use for each of them in the other commands.
 
 ### `/balance [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1)`
 > Displays information about the balance of performance for a class for a certain week of a series. Defaults to showing average race laps.
-> Alias: `/bop`
 
 ### `/schedule [series_abbrev: imsa] (season: 22s3)`
 > Track schedule for a series. 
-> Alias: `/sched`
 
-### `/driver [driver name] (category) (season: 22s3) (week: 1) (series abbrev)`
+### `/driver [name: Driver Name] (category: ) (season: 22s3) (week: 1) (series abbrev)`
 > Returns statistics about a driver's current season. If no category is provided the bot will return the output for the category that the driver has raced the most this season. You can also filter the information returned to a single series by providing a series abbreviation.
 
-### `/lastrace (category) (series abbrev) (r#)`
-> Returns information about a driver's most recent race. If `r3` is supplied, the race 3 races ago will be displayed.
+### `/previous_race [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1) (races_ago: 3)`
+> Returns information about a driver's most recent race. If a number is supplied, say 3, in the `races_ago` field, the race 3 races ago will be displayed.
 
-### `/lastraces (category) (series abbrev)`
+### `/previous_races [series_abbrev: imsa] (class_abbrev: gt3) (season: 22s3) (week: 1)`
 > Returns a list of a driver's most recent 10 races.
 
 ### `/championship [series_abbrev: imsa] (season: 22s3)`
@@ -78,22 +76,21 @@ For some commands where it makes sense, if you specify a multiclass series you w
 > Converts miles per hour to kilometers per hour. 
 
 ### Team Subscriber Admin Commands:
-### `/manage_team add [driver name] [color hex] [@discord handle]`
+### `/manage_team add [name: Driver Name] [color: #5522ee] [discord_user: @discord_handle]`
 > Adds a driver to a discord guild.
 
-### `/manage_team remove [driver name]`
+### `/manage_team remove [name: Driver Name]`
 > Removes a driver to a discord guild.
 
-### `/manage_team update [driver name] [color hex]`
+### `/manage_team update [name: Driver Name] [color: #5522ee]`
 > Updates a driver's highlight color.
 
-### `/manage_team admin_role [@role]`
+### `/manage_team admin_role [role: @role]`
 > Allows any discord user who has the mentioned role access to the bot admin commands for this server. Note: you'll need to make a new role, or use an existing one.
 
 ### Subscription Required Commands:
 ### `/points [series_abbrev: imsa] (season: 22s3)`
 > Returns three pieces of information; a table displaying the top 5 drivers in the series, along with highlighted team drivers. A table showing the points each driver has locked in for each week of the season, highlighting dropped weeks and the lowest current week's points (so you know what you need to beat to improve). Finally a line chart is included to give a good visual overview of each driver's championship season.
-> Alias: `/pts`
 
 ### `/week [series_abbrev: imsa] (season: 22s3) (week: 1)`
 > Returns information about how many races the team's drivers have completed this week in the series, along with the number of championship points they have currently for the week.

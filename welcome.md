@@ -66,6 +66,8 @@ Select the server you want to invite the bot into, and click the **Continue** bu
 
 ![9-select-server](https://user-images.githubusercontent.com/658935/171344164-38406048-2293-45e4-bd5c-cbb7a596fbb3.png)
 
+**Note** If you've configured 2 factor authentication on your server, you'll need to enter an auth code from your authentication app.
+
 You'll be shown a list of the permissions that will be granted to the bot. Click the **Authorize** button.
 
 ![10-bot-perms](https://user-images.githubusercontent.com/658935/171344180-d1da031d-74f8-4467-9500-0e94843ef186.png)

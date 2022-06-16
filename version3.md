@@ -4,7 +4,7 @@ title: iRacing Reports Discord Bot - Version 3
 
 # Version 3 in Beta Testing
 
-Over the past months I've been working away on a total re-write of the iRacing Reports Discord Bot, I'm declaring that this is version 3! They key change is that users now interact with the bot using slash commands, rather than the current `!<command>` style commands. 
+Over the past months I've been working away on a total re-write of the iRacing Reports Discord Bot, I'm declaring that this is version 3! The key change is that users now interact with the bot using slash commands, rather than the current `!<command>` style commands. 
 
 I currently have the new version 3 bot up and running in a #beta-bot-playground channel on the [iRacing Reports Discord server](https://discordbot.iracingreports.com/discord). Please give it a shot and find any bugs before I roll it out to all the subscribers' servers.
 

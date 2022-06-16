@@ -8,9 +8,9 @@ Thanks for your continued support of my iRacing Reports Discord Bot project.
 
 Over the past months I’ve been working away on a total re-write of the iRacing Reports Discord Bot, I’m declaring that this is version 3! They key change is that users now interact with the bot using slash commands, rather than the current !<command> style commands. You can read [about this new version here](https://discordbot.iracingreports.com/version3) and I have a [demo video](https://youtu.be/5YbMBCv1fVc) that you can check out to see how the new slash commands work.
 
-I have switched the bot over to the new v3 version system, you'll probably notice that the commands aren't working for your yet. 
+I have switched the bot over to the new v3 version system, you may have noticed that the commands aren't working in your server. 
 
-To get the bot working again, I need to have you complete the following 4 steps:
+To get the bot working again, I need to have you complete the following 5 steps:
 
 1. Connect your Patreon account with iRacing Reports
 2. Connect your Discord account with iRacing Reports

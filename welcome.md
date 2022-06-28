@@ -6,17 +6,20 @@ title: iRacing Reports Discord Bot - Welcome
 
 Thanks for supporting my iRacing Reports Discord Bot project.
 
-To get the bot up and running in your Discord server you'll need to complete 4 steps:
+To get the bot up and running in your Discord server you'll need to complete steps:
 
 1. Connect your Patreon account with iRacing Reports
 2. Connect your Discord account with iRacing Reports
 3. Invite the iRacing Reports Discord Bot to your Discord server
 4. Create a role for the bot, and configure the required permissions
 5. Use the `/subscribe` command to use your sub on your server 
+6. Use the "follow channel" feature to show development announces into your stats channel
 
 To begin the process, please open the following URL in a new tab:
 
 ## [https://iracingreports.com/accounts/login](https://iracingreports.com/accounts/login)
+
+I highly recommend joining our Discord server, you can contact us in there with bug reports, feature requests or any questions you might have. [Click here to join us](http://discordbot.iracingreports.com/discord).
 
 ## 1) Connect your Patreon
 
@@ -100,6 +103,13 @@ The permissions that the bot's role will require in channels where you want it t
 ## 5) Use your subscription on your server
 
 In your server run the `/subscribe` command. This will link your iRacing Reports account to the server, so you can make use of all the admin commands to configure your team and options.
+
+
+## 6) Follow the iRacing Reports announcements channels
+
+To keep up to date with development of the bot and to see any announcements we make about the service, please [join our Discord server](http://discordbot.iracingreports.com/discord) and browse to the **announcements** channel and click the "Follow" button up the top of the screen. Do the same for the **development-todo** channel.
+
+For more info on the "Follow" feature of Discord: [https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ)
 
 # Adding drivers to your team
 

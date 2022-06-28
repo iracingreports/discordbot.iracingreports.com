@@ -101,7 +101,7 @@ For some commands where it makes sense, if you specify a multiclass series you w
 ### `/team quick_stats (series_abbrev: imsa) (season: 22s3) (week: 1) (sortby: Name|iRating|iRaing Change)`
 > Returns a list of the division for each driver in the team.
 
-### `/team divisions`
+### `/team divisions (season: 22s3)`
 > Returns a list of the division for each driver in the team.
 
 ### `/team discord_mappings`

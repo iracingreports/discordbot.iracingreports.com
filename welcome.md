@@ -13,6 +13,8 @@ To get the bot up and running in your Discord server you'll need to complete 4 s
 3. Invite the iRacing Reports Discord Bot to your Discord server
 4. Create a role for the bot, and configure the required permissions
 5. Use the `/subscribe` command to use your sub on your server 
+6. Add drivers to your team
+7. Configure options for your server
 
 To begin the process, please open the following URL in a new tab:
 
@@ -101,7 +103,7 @@ The permissions that the bot's role will require in channels where you want it t
 
 In your server run the `/subscribe` command. This will link your iRacing Reports account to the server, so you can make use of all the admin commands to configure your team and options.
 
-# Adding drivers to your team
+## 6) Adding drivers to your team
 
 Once you've got the bot all ready to go, you'll probably want to add drivers to your team. Drivers in the team list will automatically be highlighted in responses from the bot and announcements of their races can be enabled.
 
@@ -110,6 +112,10 @@ You will use the `/manage_team add` command to do this. You'll need to provide t
 Below is an example of what a completely filled out command looks like:
 
 ![Add driver](https://user-images.githubusercontent.com/658935/171341212-42ddd9e3-c2e1-4fe5-8151-088f48052b67.png)
+
+## 7) Configure server options
+
+If you head back to [https://iracingreports.com/accounts/login](https://iracingreports.com/accounts/login) once you've done the above you'll see your server name displayed at the bottom of your User page. Clicking this will take you to the options page where you can configure various settings for the bot.
 
 
 

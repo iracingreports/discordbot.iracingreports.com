@@ -4,6 +4,7 @@ title: iRacing Reports Discord Bot - Emojis Explained
 
 # Emojis on /driver output
 
+```
 irating > 7000: 👽
 
 ir_change > 1000: 😲 
@@ -22,4 +23,5 @@ zero_inc_races_perc > 30: 🦺
 
 dnf_perc < 10: 🤖 
 dnf_perc > 40: ☠️ 
-dnf_perc > 25: 💣 
+dnf_perc > 25: 💣
+```

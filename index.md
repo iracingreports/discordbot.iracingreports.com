@@ -7,6 +7,8 @@ title: iRacing Reports Discord Bot
 
 I have created a Discord bot that interacts with my iRacing Statistics database. The bot allows users to access a range of statistical information about iRacing Series and Drivers.
 
+[![](https://dcbadge.vercel.app/api/server/6xGAmxhkks)](https://discord.gg/6xGAmxhkks)
+
 You can click this link to [join the iRacing Reports Discord server](https://discordbot.iracingreports.com//discord) where the bot will respond to commands in the **#bot-playground** channel. Feel free to check out your own stats for the current season using the `/driver name: Your Name` command. Below is an example of the type of information that the bot will respond with:
 
 ![/driver](https://user-images.githubusercontent.com/658935/173564569-ff26171c-d013-47d0-8d29-e7c9db01d1e5.png)

@@ -124,8 +124,8 @@ Below is an example of what a completely filled out command looks like:
 
 ## 8) Configure server options
 
-If you head back to [https://iracingreports.com/accounts/login](https://iracingreports.com/accounts/login) once you've done the above you'll see your server name displayed at the bottom of your User page. Clicking this will take you to the options page where you can configure various settings for the bot.
+Visiting [https://iracingreports.com/accounts/login](iracingreports.com/accounts/login) once you've done the above you'll see your server name displayed at the bottom of your User page. Clicking this will take you to the options page where you can configure various settings for the bot.
 
-
+This includes the option to enable the race announcement system. To make use of this you'll need to select the channel that these announcements are to be made in.
 
 
